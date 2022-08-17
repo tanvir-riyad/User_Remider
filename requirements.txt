@@ -1,0 +1,11 @@
+sqlite3
+unittest
+cv2 == 2.6.0
+datetime
+plyer
+gtts
+time
+pathlib
+io
+sys
+playsound == 1.2.2
