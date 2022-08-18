@@ -16,7 +16,6 @@ from gtts import gTTS
 from queue import Queue
 from playsound import playsound
 
-
 #%%Check data
 def CheckData(Data):
     try:
@@ -56,8 +55,7 @@ def CreateDatabase(dates, time, db_name):
 
     
     
-#%%Fetch data
-    
+#%%Fetch data   
 def FetchUpcomingDate(table_name):
     
     query = 'SELECT * FROM {} ORDER BY dates, time ASC'.format(table_name)    
