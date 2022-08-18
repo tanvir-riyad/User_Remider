@@ -1,4 +1,4 @@
-##Develop a program for a User Reminder
+###Develop a program for a User Reminder
 
 ### Requirements:
 A program that reads out and processes the qr codes in the qr_codes folder and saves them into a database 
