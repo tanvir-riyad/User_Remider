@@ -1,6 +1,6 @@
-#Develop a program for a User Reminder
+##Develop a program for a User Reminder
 
-## Requirements:
+### Requirements:
 A program that reads out and processes the qr codes in the qr_codes folder and saves them into a database 
 saving the date and time in seperate database fields in the same table. Then a Queue that can hold one value at 
 a time which holds always the next upcoming date and time. The Queue should do then the same as in the first task and notify the
