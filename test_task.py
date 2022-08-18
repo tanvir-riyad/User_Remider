@@ -16,7 +16,6 @@ import sqlite3
 if os.path.exists("mock_sqlite_database.db"):
     os.remove("mock_sqlite_database.db")
 
-
 class MockDB():
     
     def __init__(self):
